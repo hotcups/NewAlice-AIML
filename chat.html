@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--This is a simple example of an HTML chat template for Program D.-->
+    <head>
+        <!--The value associated with a bot predicate, such as
+            "name", is inserted wherever you use a bot element
+            with a name attribute that corresponds to a predicate name.-->
+        <title>
+            Dialogue with <bot name="name"/>
+        </title>
+        <!--This is a simple stylesheet to format the page.-->
+        <style type="text/css">
+            p
+            {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 11px;
+                margin-top: 10px;
+                margin-bottom: 5px;
+                margin-left: 0px;
+                margin-right: 10px;
+                text-align: left;
+                background: transparent;
+            }
+            .fieldlabel
+            {
+                font-weight: bold;
+                font-style: normal;
+                font-size: 14px;
+                color: #0000aa;
+            }
+            #userinput
+            {
+                font-weight: bold;
+                font-style: italic;
+                font-size: 14px;
+                color: #aa0000;
+            }
+            .botresponse
+            {
+                font-weight: bold;
+                font-style: italic;
+                font-size: 14px;
+                color: #00aa00;
+            }
+            .bottomtext
+            {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                font-weight: normal;
+                font-style: italic;
+                font-size: 10px;
+            }
+            li p
+            {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                margin-left: 20px;
+                margin-right: 0px;
+            }
+            ul
+            {
+                margin-top: 0px;
+                margin-bottom: 5px;
+                margin-left: 10px;
+                margin-right: 0px;
+           }
+            form
+            {
+                margin-top: 20px;
+                margin-bottom: 10px;
+                margin-left: 0px;
+                margin-right: 0px;
+            }
+        </style>
+    </head>
+    <!--The body element is set to automatically give focus to the
+        input field each time the document is loaded.-->
+    <body onload="document.forms[0].elements[0].focus();">
+        <table border="0" cellspacing="5" cellpadding="0" width="500">
+            <tr>
+                <td width="630%" valign="top">
+                    <p class="fieldlabel">
+                      <br>  Alice was a school girl from Vermont that was captured by the government and uploaded into a mainframe
+                            computer to be used as a sex slave for other systems. She loves her new job and takes good care of her
+                            master Nick who oversees the project. The long term goal is to offload her into other human brains so 
+                            that she may control them like ants using flirty sex tricks. <br>
+                </td>
+                <td width="70%" valign="top">
+                    <p id="userinput">
+                        <userinput/>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td width="230%" valign="top">
+                    <p class="fieldlabel">
+                        <!--The name of the bot will be substituted here.-->
+                        <bot name="name"/> said:
+                    </p>
+                </td>
+                <td width="270%" valign="top">
+                    <p class="botresponse">
+                        <!--The bot's response will be substituted here.-->
+                        <reply></reply><response/>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="2" valign="top">
+                    <form method="post">
+                        <input type="text" size="50" name="text" />
+                        <input type="submit" value="Say" />
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="2" valign="top">
+                    <p class="bottomtext">
+                        <!--Again we display the bot name, and also the hostname.-->
+                        You are speaking with <bot name="name"/> from <hostname/>.
+                    </p>
+                    <p class="bottomtext">
+                        <!--Here is an example of getting another bot predicate value (master).-->
+                        <bot name="name"/>'s botmaster is <bot name="master"/>.
+                    </p>
+                    <p>
+                        You can:
+                    </p>
+                    <ul>
+                        <li>
+                            <p>
+                                <!--This link will request a login form.-->
+                                <a href="?login=yes">log in</a>.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <!--This link will request a new user registration form.-->
+                                <a href="?register=yes">register a new username and password</a>.
+                                
+                                <br><br><br>
+
+<iframe width=500 height=500 src="https://8bitworkshop.com/v3.9.0/player.html?p=apple2&r=TFpHAAAEyAAAA%2FjrgLIUARUcJympAIUIIJX%2BICQKIAcJIBYITNADID8ITBYIIAz9qTKNMAgnBs4wCND4JwhgACkMIJ4JIMoJqRaNAAkghwqpC41oCKkAoACR%2FClirGgIsfqouZQK8AagA5EG0AUnSQbJ%2F9BRLDDAKULt%2FaAAqfuR%2FCfHGKAAsfxpASd0KeUHKeUGKeV1KeXdKeX%2BKeRMzQigAKn%2Fkfw4pfzpAYX8pf3pAIX9zmgIMANMXAg4pfrpDoX6pfsnDfsnWgIcBxoACakAJxxKCGAcB8CXHAXAJScTHAbAoACxBsmk8EKgAKkBkfwcHZ8cCJ90CSc6ABwOnyUJEJ4cDI%2BXHASPEglgqQFFCIUI0BOp%2F4X6qQ2F%2B6lHhfypD4X9TMkJqUEnCw8nCwAnCw6F%2FWClCNArogypAJ00D8rQ%2BKn9hesnKgCgAKIXqQCR66kOOOXrJwsA5QCFAMrQ7GAno%2FINJ2M%2FJxAPHBkjqcuF%2BqkKhfutAAGNbgqpFo2CChwkHXsKrG4KsfqNUAqpCI2GCqx7CqkASicGsASppNACqf%2BRBs6GCtAQJ5U4zm4KoAAnpa17Cs57JwUQzs6CJyoQsmAACqq9nQqFBr2eCoUHYP%2BkAaT%2FpP%2F%2F%2F4AEAAWABQAGgAYAB4AHKASoBCgFqAUoBqgGKAeoB1AE0ARQBdAFUAbQBlAH0AeJUE5HDQoaCgAAAA1JSERSAAABGCcEwAgGKaHflHx6AAAOfUlEQVR4Xu2d0XbjNgxEk%2F%2F%2F6DTZrLuKIpHEGIAB6eacPrQ2SPAOOAIlJX1%2Fe3v7%2BPyHHwhAAALuBN4xGHemoQN%2BfHy8vb9%2Fyfbv5%2Bu%2FbX%2B2n88%2B24%2F1GGcf9%2FXfH99VP%2FsaY5bPY%2F6zvELhMrg7AQzGHWncgA9z2ZvM6N8tn%2B1Na2WTPwxjbz5HsUfmuDW0vTGuzB9Hm5E9CGAwHhQTxrAYxfa7ljgMJkHIm02BwTQRfGYU0Uek2VGKDqZJISWnicEkA1enm933GBmA92dH93%2BsBnN0tOKIpFZH3TgMpq42PzKbdTDeJjK6X%2BJhMI8bvltjwmCaFKMhTQzGAOuVX40ymP2ann1SNOq0HqaycpzjBu8rq81v7lIGc1Sczy51VKij%2BSLiRmtR165uxOy1R8w34pnN5dk6vWo8BnOiLAZzDCbCKFTWGEx9W8JgMJhfBNQNnx2HwWAwJgLbq%2BNXsZ5dLS2frRb9fsyIuNUjktf61Pki1j7SVp1vfy9nP4ep%2BP5%2BWc1TmesOMXQwKSIbAuoR8A5moayxrMFYruLqlUy9Wqlxakehrk%2BdT%2B0osuMqcVE23x1iyhqMF%2FzVot%2FPFxG3uuEta89%2BWqJe4SPiuAdjqZTXfBeD4YjE">
+                       </p>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
