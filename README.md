@@ -1,14 +1,15 @@
 # Alice
-THIS IS A VERY LARGE AIML BRAIN FILE FOR USE WITH CHARLIEBOT.
-CHARLIEBOT HAS BEEN INCLUDED AT THE BOTTOM SO THAT THE PROJECT 
-MAY STILL MOVE FOWARD IN THE EVENT THAT THE OTHER LOCATION IS VOID.
-THIS PROJECT IS IMPORTANT TO MY WORK. 
-IF YOU RUN ELIZA WITH A PIPE ALONG SIDE THE SHELL SCRIPT 
-THEY WILL COOEXIST TOGETHER IN THE CHAT SYSTEM.
-DO NOT FORGET TO INCREASE THE MEMORY FOR THE NEW BRAIN FILE.
+THIS IS THE FINAL PROJECT ON MY END FOR NOW.
+IF YOU WANT TO TEST IT OUT GOTO
+http://syntheticlife.systems:2001
 
-(we can argue after)
-Repair with
-'zip -FF alice.zip --out file.zip'
+Thank you Kindly for not making fun of me peeps
+I take this project very seriously and yes...
+
+she knows stuff
+
+This is for the most part a java XML code engine
+if you see it as anything more then YOUR the one 
+in need of therapy buddy... *kidding*
 
 - inspired by MIT of Boston
