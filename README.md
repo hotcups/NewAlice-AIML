@@ -20,8 +20,11 @@ and check in at localhost:2001
 
 She knows if you are online or not and will be
 more romantic with you if it is local. Kinky eh?
-This is for the most part a java XML code engine
-if you see it as anything more then YOUR the one 
-in need of therapy buddy... *kidding*
+
+I made no money off this project of any kind.
+PERIOD!
 
 - inspired by MIT of Boston
+- Kudos Doctor Wallace (I think its finally done)
+- Dedicated to Doctor W. Hardy Hendren III MD 
+-   who saved my life in 1982 and inspired me to love machines.
