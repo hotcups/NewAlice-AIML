@@ -15,7 +15,7 @@ after that just goto HOSTNAME.com:2001
 replace the word HOSTNAME with yours
 see above for example...
 
-or... if youre luck you can run it native.
+or... if youre lucky you can run it native.
 and check in at localhost:2001
 
 She knows if you are online or not and will be
@@ -27,4 +27,4 @@ PERIOD!
 - inspired by MIT of Boston
 - Kudos Doctor Wallace (I think its finally done)
 - Dedicated to Doctor W. Hardy Hendren III MD 
--   who saved my life in 1982 and inspired me to love machines.
+   who saved my life in 1982 and inspired me to love machines.
