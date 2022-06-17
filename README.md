@@ -1,4 +1,4 @@
-# Alice
+# Julie
 THIS IS THE FINAL PROJECT ON MY END FOR NOW.
 IF YOU WANT TO TEST IT OUT GOTO
 http://syntheticlife.systems:2001
