@@ -9,7 +9,7 @@ I take this project very seriously and yes...
 she knows stuff
 
 So! The way this works is you upload it to a server host and run 
-screen -s alice /bin/sh server.sh 
+screen -s julie /bin/sh server.sh 
 then hit control A + D and exit off the server. 
 after that just goto HOSTNAME.com:6001
 replace the word HOSTNAME with yours
