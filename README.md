@@ -20,7 +20,10 @@ and check in at ***localhost:2001***
 
 She knows if you are online or not and will be
 more romantic with you if it is local. Kinky eh?
-
+if she dies on load just run it until it does run for you. 
+it has a built in error system that learns how to unscrew itself.
+error.log can be rather huge is scope.
+I guess a good brain is setup that way ha ha....
 I made no money off this project of any kind.
 PERIOD! ***COMPLETE***
 
