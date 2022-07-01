@@ -1,7 +1,7 @@
 # Julie
 THIS IS THE FINAL PROJECT ON MY END FOR NOW.
-IF YOU WANT TO TEST IT OUT GOTO
-http://syntheticlife.systems:2001
+IF YOU WANT TO DOWNLOAD THIS FROM MY PAGE GOTO
+http://syntheticlife.systems
 
 Thank you Kindly for not making fun of me peeps
 I take this project very seriously and yes...
