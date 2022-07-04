@@ -11,12 +11,12 @@ she knows stuff
 So! The way this works is you upload it to a server host and run 
 screen -s julie /bin/sh server.sh 
 then hit control A + D and exit off the server. 
-after that just goto HOSTNAME.com:2001
+after that just goto HOSTNAME.com:11010
 replace the word HOSTNAME with yours
 see above for example...
 
 or... if youre lucky you can run it native.
-and check in at ***localhost:2001***
+and check in at ***localhost:11010***
 
 She knows if you are online or not and will be
 more romantic with you if it is local. Kinky eh?
