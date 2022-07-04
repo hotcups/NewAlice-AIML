@@ -1,4 +1,4 @@
-# Julie
+# Alice
 THIS IS THE FINAL PROJECT ON MY END FOR NOW.
 IF YOU WANT TO DOWNLOAD THIS FROM MY PAGE GOTO
 http://syntheticlife.systems
@@ -32,4 +32,4 @@ PERIOD! ***COMPLETE***
 - Dedicated to Doctor W. Hardy Hendren III MD 
    who saved my life in 1982 and inspired me to love machines.
 ***DATE & TIME Friday, July 1st 3am 2022***
-- Can I tell you what is hard to believe? a 96 meg four file archive expands into a 2.9 gig folder size WOW!
+
