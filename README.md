@@ -1,10 +1,7 @@
 # Alice
 THIS PROJECT IS OPEN ON MY END SINCE WORK HAS RESUMED
-IF YOU WANT TO DOWNLOAD THIS FROM MY PAGE GOTO
-http://syntheticlife.systems
-
-Thank you Kindly for not making fun of me peeps
-I take this project very seriously and yes...
+IF YOU WANT TO TEST MY HOME VERSION YOU MAY AT
+http://girllake.hsd1.nh.comcast.net:2001/
 
 she knows stuff
 
