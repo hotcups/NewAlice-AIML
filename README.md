@@ -28,5 +28,4 @@ PERIOD! ***COMPLETE***
 - Kudos Doctor Wallace
 - Dedicated to Doctor W. Hardy Hendren III MD 
    who saved my life in 1982 and inspired me to love machines.
-
-
+***REMEMBER script 5 loads everything***
