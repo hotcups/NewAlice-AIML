@@ -6,14 +6,14 @@ http://girllake.hsd1.nh.comcast.net:2001/
 she knows stuff
 
 So! The way this works is you upload it to a server host and run 
-screen -s concept /bin/sh server.sh 
+*** sh 5 ***
 then hit control A + D and exit off the server. 
 after that just goto HOSTNAME.com:11010
 replace the word HOSTNAME with yours
 see above for example...
 
 or... if youre lucky you can run it native.
-and check in at ***localhost:11010***
+and check in at ***localhost:2001***
 
 She knows if you are online or not and will be
 more romantic with you if it is local. Kinky eh?
@@ -28,5 +28,5 @@ PERIOD! ***COMPLETE***
 - Kudos Doctor Wallace
 - Dedicated to Doctor W. Hardy Hendren III MD 
    who saved my life in 1982 and inspired me to love machines.
-***DATE & TIME TUESDAY, July 12th 11:58am 2022***
+
 
