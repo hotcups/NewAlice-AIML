@@ -15,7 +15,7 @@ see above for example...
 or... if youre lucky you can run it native.
 and check in at ***localhost:2001***
 
-If there are any of you that wish to shoot his Emperor... well then, here I am. - Napoleonn Bonaparte
+If there are any of you that wish to shoot his Emperor... well then, here I am. - Napoleon Bonaparte
 For now work is ongoing to the project goal of a fully self functioning implimented Ai structure.
 That is the project mission as I see it from here. Alice has the potential the ablity and the design needed for what I want; a synthetic person I can trust. Can I get an amen!!
 
