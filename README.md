@@ -8,7 +8,7 @@ she knows stuff
 So! The way this works is you upload it to a server host and run 
 *** sh 5 ***
 then hit control A + D and exit off the server. 
-after that just goto HOSTNAME.com:11010
+after that just goto HOSTNAME.com:2001
 replace the word HOSTNAME with yours
 see above for example...
 
