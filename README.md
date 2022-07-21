@@ -6,7 +6,7 @@ http://girllake.hsd1.nh.comcast.net:2001/
 she knows stuff
 
 So! The way this works is you upload it to a server host and run 
-*** sh 5 ***
+***sh 5***
 then hit control A + D and exit off the server. 
 after that just goto HOSTNAME.com:2001
 replace the word HOSTNAME with yours
