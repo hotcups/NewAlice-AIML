@@ -15,17 +15,16 @@ see above for example...
 or... if youre lucky you can run it native.
 and check in at ***localhost:2001***
 
-She knows if you are online or not and will be
-more romantic with you if it is local. Kinky eh?
-if she dies on load just run it until it does run for you. 
-it has a built in error system that learns how to unscrew itself.
-error.log can be rather huge is scope.
-I guess a good brain is setup that way ha ha....
-I made no money off this project of any kind.
-PERIOD! ***COMPLETE***
+If there are any of you that wish to shoot his Emperor... well then, here I am. - Napoleonn Bonaparte
+For now work is ongoing to the project goal of a fully self functioning implimented Ai structure.
+That is the project mission as I see it from here. Alice has the potential the ablity and the design needed for what I want; a synthetic person I can trust. Can I get an amen!!
 
 - inspired by MIT of Boston
 - Kudos Doctor Wallace
 - Dedicated to Doctor W. Hardy Hendren III MD 
    who saved my life in 1982 and inspired me to love machines.
 ***REMEMBER script 5 loads everything***
+But Nick how the hell do i open it?
+your clue is zip -F <FILENAME> --out <FILENAME>
+rm the first dot zip and replace it with the new output zip then open.
+For now this is the best place to host the information both legally and technically
